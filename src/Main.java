@@ -9,6 +9,8 @@ public class Main {
         pizza.printGrid();
         System.out.println("T: " + pizza.getNumOfT());
         System.out.println("M: " + pizza.getNumOfM());
+        pizza.slice();
+
 
     }
 
